@@ -7,8 +7,8 @@ Welcome to iValidate, your go-to Insta Validator for business! This web applicat
 - [Getting Started](#getting-started)
     -> [Prerequisites](#prerequisites)
     -> [Installation](#installation)
--[Usage](#usage)
-
+- [Usage](#usage)
+   
 ## Getting Started
 
 ### Prerequisites
