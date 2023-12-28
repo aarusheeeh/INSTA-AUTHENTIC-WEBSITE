@@ -5,9 +5,9 @@ Welcome to iValidate, your go-to Insta Validator for business! This web applicat
 
 ## Table of Contents
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+    -> [Prerequisites](#prerequisites)
+    -> [Installation](#installation)
+-[Usage](#usage)
 
 ## Getting Started
 
