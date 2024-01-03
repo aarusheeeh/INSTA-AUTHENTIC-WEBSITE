@@ -29,8 +29,10 @@ Make sure you have the following installed:
 
 ## Output
 
-Here's the finale look of the project.
+Here's the project video link.
 https://drive.google.com/file/d/1dUG_k80Lsr11OPICBjkZMt-9Vdv8W11s/view?usp=drivesdk
 
+Here's the project link.
+https://trippishstuf.github.io/INSTA-AUTHENTIC-WEBSITE/
 
 **Note:** The README provides users and contributors with essential information about the Insta Validator web application.
